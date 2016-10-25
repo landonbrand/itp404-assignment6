@@ -1,0 +1,1 @@
+/Users/Landon/Desktop/itp404/itp404-assignment6/itp404-assignment6/tmp/broccoli_merge_trees-input_base_path-ukWIsmCz.tmp/0/modules/ember-cli-app-version/initializer-factory.js
